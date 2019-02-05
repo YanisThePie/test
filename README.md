@@ -54,6 +54,6 @@ La messagerie instantanée est déployée avec le paquet "react-native-gifted-ch
 
 ## Schéma d'architecture
 
-![Schéma d'architecture](https://drive.google.com/file/d/13_5RR0af9SJLTVmCZqlPk0nG0_6mLiFy/ "Schéma d'architecture")
+![Schéma d'architecture](https://drive.google.com/uc?export=view&id=13_5RR0af9SJLTVmCZqlPk0nG0_6mLiFy)
 
 
